@@ -18,4 +18,4 @@ A template for writing [Bitburner](https://github.com/danielyxie/bitburner) scri
 ## Usage
 - Run `grunt` (or `grunt build`) to build the F# files specified in `src/App.fsproj`.
     - Per-file output should show up in `src/`.
-    - Bundled output should show up in `dist/`.
+    - Bundled, minified output should show up in `dist/`.
