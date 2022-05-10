@@ -1,6 +1,8 @@
 # fableburner
 A template for writing [Bitburner](https://github.com/danielyxie/bitburner) scripts in [F#](https://fsharp.org/) using [Fable](https://fable.io/).
 
+![Demo Image](docs/demo.png)
+
 ## Prerequisites
 - `node` and `npm` (Needed for the javascript half of the build process.)
 - `yarn` (Optional.)
