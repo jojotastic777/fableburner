@@ -1,0 +1,24 @@
+# Fable things.
+src/.fable
+src/bin
+src/obj
+
+# Generated Bitburner Fable Types
+src/Bitburner.fs
+
+# Bitburner Fable Type Generation Intermediates
+NetscriptDefinitions.d.ts
+/Bitburner.fs
+
+# Node Modules
+node_modules
+
+# Build Results
+dist
+
+# Build Intermediates
+src/*.fs.js
+
+# Package Lock Files
+yarn.lock
+package-lock.json

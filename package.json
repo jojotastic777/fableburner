@@ -1,0 +1,16 @@
+{
+  "name": "fableburner",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "dotnet tool restore"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "grunt": "^1.5.3",
+    "grunt-shell": "^4.0.0",
+    "htmlparser2": "^8.0.1",
+    "rollup": "^2.72.1",
+    "ts2fable": "^0.7.1"
+  }
+}
